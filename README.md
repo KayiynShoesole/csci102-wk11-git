@@ -1,5 +1,5 @@
-#csci102-wk11-git
-#Week 11 Git Workshop
+# csci102-wk11-git
+# Week 11 Git Workshop
 **Author:** Kayiyn Shoemaker
 **Section:** CSCI 102- Section B
 
